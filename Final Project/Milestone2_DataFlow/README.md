@@ -1,4 +1,4 @@
-# Group T2 Cloud Computing Milestone #1=2
+# Group T2 Cloud Computing Milestone #2
 
 ## D2: Results from the Four Examples: 
 ## D3: SmartMeter Design: 
