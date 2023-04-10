@@ -1,9 +1,13 @@
-# Group T2 Cloud Computing Milestone #2
+# Group T2 Cloud Computing Final Project: HighD-Congestion
 
-## D2: Results from the Four Examples: https://drive.google.com/file/d/1K8h8UHjECHIF5CK5XW06O_PbC-YXv4pw/view
-## D3: SmartMeter Design: https://drive.google.com/file/d/1lCVx0ma0UlkvpWs9-f6uuh-f-QkUEGmG/view
+### Demo Video: 
+https://drive.google.com/file/d/1uh8s-8wBkWs3eR8nSi_jj0UdhPIuwi0z/view?usp=share_link
+### Presentation Video: 
+https://drive.google.com/file/d/1CA0zvaalOviEfxvH_K6k1uU7R1x029BZ/view?usp=share_link
+### Link to Front-end: 
+https://sofe4630finalproject.azurewebsites.net/
 
-## Group Members: 
+## Group Members 
 ### Abdul Bhutta 100785884
 ### Andrew Mikaeel 100525236
 ### Anson Tu 100655482
